@@ -6,6 +6,7 @@ bootStation TUX (Terminal Unleashed eXperimental, sensibly named) is a GRUB2 the
 Available for the following resolutions:
 - 3840x2160
 - 2560x1440
+- 1920x1200
 - 1920x1080
 
 >800x600 mode might be added eventually for maximum crust.<br>
